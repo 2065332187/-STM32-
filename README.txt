@@ -1,0 +1,9 @@
+基于STM32的移动监测站
+电机1-4:PB0-PB7
+BEEP:PB14
+DHT11温湿度传感器：PB12
+烟雾传感器：PA0
+光敏传感模块PB13
+WIFI模块:PA9-->RX
+         PA10-->TX 
+LED：PA7
